@@ -6,7 +6,7 @@ This browser extension automatically mutes the Echo360 player during the excessi
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21QIYT)
 ## Installation
-**Head over to the releases tab to download the extension.**
+[Download Extension Here](https://github.com/unxpctederr/Make-Echo-Quiet-Again/releases)
 
  Note: You have to install it from this repository and is not available on the Firefox addon store or Chrome web store, as according to the person from Mozilla who reviewed the app for the Firefox addon store, it is 'too specific'....
  
