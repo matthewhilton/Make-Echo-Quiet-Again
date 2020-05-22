@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Make Echo Quiet Again!",
-  "version": "1.0",
+  "version": "1.1",
 
   "content_scripts": [
     {
@@ -24,7 +24,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "hello@matthewhilton.work"
+      "id": "{0f871d2a-6b23-4ca7-aa31-d2bbca518f57}"
     },
     "edge": {
       "browser_action_next_to_addressbar": true
