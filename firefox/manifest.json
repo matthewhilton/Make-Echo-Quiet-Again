@@ -20,5 +20,14 @@
   "permissions": [
     "activeTab",
     "tabs"
-  ]
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hello@matthewhilton.work"
+    },
+    "edge": {
+      "browser_action_next_to_addressbar": true
+    }
+  }
 }
