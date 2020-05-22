@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Make Echo Quiet Again!",
-  "version": "1.2",
+  "version": "1.1",
 
   "description": "Mutes echo360 automatically when playing the (excessively loud) QUT intro sequence on Echo360 lectures.",
   "icons": {
@@ -20,7 +20,7 @@
 
   "browser_action": {
     "browser_style": true,
-    "default_icon": "icons/audio_mute.svg",
+    "default_icon": "icons/audio_mute.png",
     "default_title": "Make Echo Quiet Again!",
     "default_popup": "popup.html"
   },
@@ -28,14 +28,5 @@
   "permissions": [
     "activeTab",
     "tabs"
-  ],
-
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "{0f871d2a-6b23-4ca7-aa31-d2bbca518f57}"
-    },
-    "edge": {
-      "browser_action_next_to_addressbar": true
-    }
-  }
+  ]
 }
